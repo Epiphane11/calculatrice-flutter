@@ -1,23 +1,23 @@
-# 🧮 Calculatrice Mobile Flutter
+#  Calculatrice Mobile Flutter
 
-## 📱 Description
+##  Description
 Application de calculatrice mobile développée avec Flutter dans le cadre du projet de Programmation Mobile.
 
 **Institut :** IGIT (Institut du Génie Informatique et Télécommunications)  
 **Date :** Décembre 2025  
 **Langage :** Dart / Flutter
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- ✅ **Opérations de base :** Addition (+), Soustraction (-), Multiplication (×), Division (÷)
-- ✅ **Pourcentage (%) :** Divise le nombre par 100 (ex: 50% = 0.5)
-- ✅ **Nombres décimaux :** Gestion complète des décimales
-- ✅ **Changement de signe (+/-)** : Inverse le signe du nombre
-- ✅ **Réinitialisation (C)** : Efface tout et recommence à zéro
-- ✅ **Interface responsive** : S'adapte à différentes tailles d'écran
-- ✅ **Design moderne** : Interface noire avec boutons orange et gris
+-  **Opérations de base :** Addition (+), Soustraction (-), Multiplication (×), Division (÷)
+-  **Pourcentage (%) :** Divise le nombre par 100 (ex: 50% = 0.5)
+-  **Nombres décimaux :** Gestion complète des décimales
+-  **Changement de signe (+/-)** : Inverse le signe du nombre
+-  **Réinitialisation (C)** : Efface tout et recommence à zéro
+-  **Interface responsive** : S'adapte à différentes tailles d'écran
+-  **Design moderne** : Interface noire avec boutons orange et gris
 
-## 🎨 Interface
+##  Interface
 
 L'interface respecte fidèlement la maquette fournie avec :
 - Fond noir
@@ -25,7 +25,7 @@ L'interface respecte fidèlement la maquette fournie avec :
 - Boutons circulaires gris pour les chiffres
 - Boutons orange pour les opérateurs
 
-## 🔧 Implémentation technique
+##  Implémentation technique
 
 ### Bouton % (Pourcentage)
 Le bouton % divise le nombre affiché par 100.
@@ -36,21 +36,21 @@ Le bouton % divise le nombre affiché par 100.
 - **Division par zéro :** Affiche "Erreur"
 - **Valeurs décimales :** Formatage automatique (suppression des zéros inutiles)
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - **Framework :** Flutter 3.x
 - **Langage :** Dart
 - **Plateforme cible :** Android (émulateur et smartphone physique)
 - **IDE :** Android Studio
 
-## 👥 Auteurs
+##  Auteurs
 
 - DABROGO Zalissa
 - SAWADOGO Jean Epiphane 
 
 **Enseignant :** COMPAORE MOCTAR
 
-## 🚀 Installation et exécution
+##  Installation et exécution
 
 ### Prérequis
 - Flutter SDK installé
@@ -73,6 +73,6 @@ flutter run
 ```
 
 
-## 📄 Licence
+##  Licence
 
 Projet académique - IGIT 2025S
